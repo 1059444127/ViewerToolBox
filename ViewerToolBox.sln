@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserControlTest", "UserCont
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerToolBoxViewModel", "ViewerToolBoxViewModel\ViewerToolBoxViewModel.csproj", "{FCC2E7C4-4F79-49F5-B938-F61D4578ABE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerToolInterface", "ViewerToolInterface\ViewerToolInterface.csproj", "{1C24F85D-DD61-4726-913B-A4A67523CFA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerTool", "ViewerTool\ViewerTool.csproj", "{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,14 @@ Global
 		{FCC2E7C4-4F79-49F5-B938-F61D4578ABE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCC2E7C4-4F79-49F5-B938-F61D4578ABE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCC2E7C4-4F79-49F5-B938-F61D4578ABE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C24F85D-DD61-4726-913B-A4A67523CFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C24F85D-DD61-4726-913B-A4A67523CFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C24F85D-DD61-4726-913B-A4A67523CFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C24F85D-DD61-4726-913B-A4A67523CFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
