@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerToolInterface", "View
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerTool", "ViewerTool\ViewerTool.csproj", "{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppViewerTool", "AppViewerTool\AppViewerTool.csproj", "{F4C6F709-E39E-4553-BE46-5AC656CF7490}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C6F709-E39E-4553-BE46-5AC656CF7490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C6F709-E39E-4553-BE46-5AC656CF7490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C6F709-E39E-4553-BE46-5AC656CF7490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C6F709-E39E-4553-BE46-5AC656CF7490}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
