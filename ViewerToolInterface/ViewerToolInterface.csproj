@@ -35,6 +35,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IToolBoxModel.cs" />
     <Compile Include="IViewDisplay.cs" />
     <Compile Include="IViewerTool.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
