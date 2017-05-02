@@ -32,10 +32,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ToolBoxModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ViewerToolInterface\ViewerToolInterface.csproj">
+      <Project>{1C24F85D-DD61-4726-913B-A4A67523CFA4}</Project>
+      <Name>ViewerToolInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViewerTool\ViewerTool.csproj">
+      <Project>{3F5F3025-7BEA-47B5-86A0-BAE8ED83E3C6}</Project>
+      <Name>ViewerTool</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
