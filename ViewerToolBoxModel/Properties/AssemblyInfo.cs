@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AppViewerTool")]
+[assembly: AssemblyTitle("ViewerToolBoxModel")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AppViewerTool")]
+[assembly: AssemblyProduct("ViewerToolBoxModel")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("781f417b-d49e-4b83-b7eb-8add6d26079b")]
+[assembly: Guid("9055ff29-6be3-4ef3-ba9e-be11859a45b0")]
 
 // Version information for an assembly consists of the following four values:
 //
