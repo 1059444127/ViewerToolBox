@@ -4,6 +4,8 @@ using ViewerToolInterface;
 
 namespace ViewerTool
 {
+    [InheritedExport]
+    [Export(typeof(IToolBoxModel))]
     public abstract class ToolBoxModelBase : IToolBoxModel
     {
         [Export]
